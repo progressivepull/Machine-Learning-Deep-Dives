@@ -3,7 +3,7 @@
 # Table of Contents
 
 **Regression Linear**
-* [Math (Notebook)](Table_of_Contents/Linear_Regression/Linear_Regression_Math .ipynb)
+* [Math (Notebook)](Table_of_Contents/Linear_Regression/Linear_Regression_Math.ipynb)
 * [House Price Prediction Sklearn Code (Notebook)](Table_of_Contents/Linear_Regression/House_Cost_Global_Sklearn_Code.ipynb)
 * [Manual Split into Test and Training Data Set (Notebook](Table_of_Contents/Linear_Regression/Manual_Split_into_Two_Groups.ipynb)
 
